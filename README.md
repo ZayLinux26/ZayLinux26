@@ -137,16 +137,16 @@ A **10-project portfolio** built around one fictional healthcare organization, M
 
 | # | Project | Focus | Status |
 |---|---------|-------|--------|
-| 01 | [**User Lifecycle Management (JML)**](https://github.com/ZayLinux26/entra-user-lifecycle-jml) | Joiner / Mover / Leaver workflows, bulk provisioning, audit evidence | ✅ **Shipped** |
-| 02 | Role-Based Access Control (RBAC) Design | Role definitions, separation of duties, privileged role identification | 🚧 In progress |
-| 03 | Single Sign-On (SSO) & Federation | SAML / OIDC federation with SaaS applications | 🔜 Coming soon |
-| 04 | Multi-Factor Authentication Deployment | Conditional Access policies, MFA registration campaigns | 🔜 Coming soon |
-| 05 | Privileged Access Management Fundamentals | Just-in-time access, PIM, break-glass account design | 🔜 Coming soon |
-| 06 | Access Reviews & Audit Readiness | Quarterly attestation campaigns, compliance evidence packs | 🔜 Coming soon |
-| 07 | Cloud IAM Policy Design (Azure / AWS) | Permission boundaries, cross-account access patterns | 🔜 Coming soon |
-| 08 | Identity Monitoring & Anomaly Detection | Sentinel integration, risky sign-in detection, alerting playbooks | 🔜 Coming soon |
-| 09 | Open-Source IAM Deployment (Keycloak) | Self-hosted Keycloak realm and client app integration | 🔜 Coming soon |
-| 10 | IAM Automation with Microsoft Graph PowerShell | Bulk user maintenance, group lifecycle, reporting at scale | 🔜 Coming soon |
+| 01 | [**User Lifecycle Management (JML)**](https://github.com/ZayLinux26/entra-user-lifecycle-jml) | Joiner / Mover / Leaver workflows, security-ordered deprovisioning, audit evidence | ✅ **Shipped** |
+| 02 | [**RBAC Design & Implementation**](https://github.com/ZayLinux26/entra-rbac-design) | Least-privilege role catalog, app-level enforcement, separation of duties, recertification | ✅ **Shipped** |
+| 03 | [**SSO & Federation (SAML + OIDC)**](https://github.com/ZayLinux26/entra-sso-saml-oidc) | Entra ID as the enterprise IdP, apps federated over both SAML 2.0 and OIDC | ✅ **Shipped** |
+| 04 | [**Phishing-Resistant MFA & Passwordless**](https://github.com/ZayLinux26/entra-phishing-resistant-mfa) | FIDO2 passkeys, authentication strength enforced through Conditional Access | ✅ **Shipped** |
+| 05 | [**Privileged Identity Management (PIM)**](https://github.com/ZayLinux26/entra-pim-pam) | Just-in-time elevation, approval workflows, break-glass account design | ✅ **Shipped** |
+| 06 | [**Keycloak Identity Provider on RHEL**](https://github.com/ZayLinux26/keycloak-iam-deployment) | Self-hosted Keycloak, realm and role design, integrated OIDC application | ✅ **Shipped** |
+| 07 | [**Azure Compute & Identity Management**](https://github.com/ZayLinux26/azure-compute-identity-management) | VM secured with RBAC, Entra groups, Key Vault, Azure Policy, cost controls | ✅ **Shipped** |
+| 08 | [**Bulk Provisioning Engine**](https://github.com/ZayLinux26/entra-bulk-provisioning-engine) | PowerShell 7 + Microsoft Graph, 500-identity workforce with manager hierarchy and seeded anomalies | ✅ **Shipped** |
+| 09 | [**IAM Role Mining Engine**](https://github.com/ZayLinux26/iam-role-mining-engine) | Bottom-up role discovery and SoD detection, 16 of 16 business roles recovered (F1 0.923) | ✅ **Shipped** |
+| 10 | Access Reviews & Audit Readiness | Recertification campaigns validated against Project 08's seeded-anomaly manifest | 🚧 In progress |
 
 🔗 **Portfolio hub:** [iam-analyst-portfolio](https://github.com/ZayLinux26/iam-analyst-portfolio)
 
@@ -166,7 +166,8 @@ Outside the Meridian portfolio, I'm building three deep tracks that line up with
 |-----|--------|------|
 | **Identity Security** | MFA, Conditional Access, Entra ID Protection | 🔜 Coming soon |
 | **Network Security** | NSGs, Azure Firewall, Bastion, Private Link | 🔜 Coming soon |
-| **Compute Security** | ACR, AKS, VM Security, Disk Encryption | 🔜 Coming soon |
+| **Compute Security** | VM security with RBAC, Key Vault, Azure Policy | ✅ [azure-compute-identity-management](https://github.com/ZayLinux26/azure-compute-identity-management) |
+| **Kubernetes Privileged Access** | Just-in-time AKS cluster-admin through Entra PIM, audit logs to Log Analytics | ✅ [aks-pim-jit-access](https://github.com/ZayLinux26/aks-pim-jit-access) |
 | **Data Security** | Key Vault, SQL Security, Storage Encryption | 🔜 Coming soon |
 | **AI Workload Security** | Securing AI apps and agents, agent identities, data exposure controls | 🔜 Coming soon |
 | **Security Operations** | Microsoft Sentinel, Defender for Cloud | 🔜 Coming soon |
