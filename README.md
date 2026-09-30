@@ -1,8 +1,8 @@
 # Hi, I'm Isaiah Herard 👋🏽
 
-## 🎯 IAM Analyst → CyberArk PAM Engineer | Microsoft SC-300 | Azure Identity Security
+## 🎯 IAM Analyst → CyberArk PAM Engineer | Microsoft SC-300 + SC-500 | Azure Identity Security
 
-I'm an identity-focused security professional specializing in **Microsoft Entra ID**, **CyberArk Privileged Access Management (PAM)**, and the **Red Hat Linux** stack that enterprise identity infrastructure runs on top of. My background pairs hands-on IAM operations with PCI-DSS and ISO 27001 audit experience — so I think about identity from both the implementer's seat and the auditor's seat. This GitHub is where I ship the work behind that thesis.
+I'm an identity-focused security professional working in **Microsoft Entra ID**, **CyberArk Privileged Access Management (PAM)**, and the **Red Hat Linux** stack that enterprise identity infrastructure runs on. My background pairs hands-on IAM operations with PCI-DSS and ISO 27001 audit experience, so I look at identity from both the implementer's seat and the auditor's seat. This GitHub is where I ship the work behind that.
 
 ---
 
@@ -17,7 +17,7 @@ I'm an identity-focused security professional specializing in **Microsoft Entra 
 │   Microsoft Entra   │   CyberArk PAS      │   Microsoft Azure           │
 │   • Lifecycle (JML) │   • Vault           │   • Conditional Access      │
 │   • RBAC Design     │   • PSM             │   • Defender / Sentinel     │
-│   • SSO / SAML      │   • CPM             │   • Key Vault               │
+│   • SSO / SAML      │   • CPM             │   • Key Vault / AI Security │
 │   • MFA / Cond Acc  │   • PVWA            │   Red Hat Enterprise Linux  │
 │   • Access Reviews  │   • CCP / AAM       │   • RHEL 8 / 9 / 10         │
 │   • Audit Evidence  │   • PIM Integration │   • IdM / SELinux / Ansible │
@@ -34,6 +34,7 @@ I'm an identity-focused security professional specializing in **Microsoft Entra 
 ![SAML](https://img.shields.io/badge/SAML_/_OIDC-FF6B00?style=for-the-badge)
 ![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=windows&logoColor=white)
 ![Conditional Access](https://img.shields.io/badge/Conditional_Access-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
 ### 🔑 Privileged Access Management
@@ -44,9 +45,11 @@ I'm an identity-focused security professional specializing in **Microsoft Entra 
 ![PIM](https://img.shields.io/badge/Entra_PIM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Secrets Management](https://img.shields.io/badge/Secrets_Management-green?style=for-the-badge)
 
-### ☁️ Cloud Platforms
+### ☁️ Cloud & AI Security
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure Security](https://img.shields.io/badge/Azure_Security-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![AI Security](https://img.shields.io/badge/AI_Security-5C2D91?style=for-the-badge&logo=microsoft&logoColor=white)
+![Agent Identity](https://img.shields.io/badge/AI_Agent_Identity-5C2D91?style=for-the-badge)
 
 ### 🛡️ Security Operations
 ![SIEM](https://img.shields.io/badge/SIEM/SOAR-orange?style=for-the-badge)
@@ -60,6 +63,7 @@ I'm an identity-focused security professional specializing in **Microsoft Entra 
 ![RHEL](https://img.shields.io/badge/RHEL_8/9/10-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![OpenShift](https://img.shields.io/badge/Red_Hat_OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![SELinux](https://img.shields.io/badge/SELinux-EE0000?style=for-the-badge&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
@@ -85,6 +89,16 @@ I'm an identity-focused security professional specializing in **Microsoft Entra 
 
 ## 📜 Certifications
 
+**Legend:** ✅ Certified · 📚 In progress · 🎯 Planned
+
+### ☁️ Microsoft Azure & Security
+| Certification | Description | Status |
+|--------------|-------------|--------|
+| ![Azure](https://img.shields.io/badge/SC--500-0078D4?style=flat-square) **SC-500** | Cloud and AI Security Engineer | ✅ Certified |
+| ![Azure](https://img.shields.io/badge/SC--300-0078D4?style=flat-square) **SC-300** | Identity and Access Administrator Associate | ✅ Certified |
+| ![Azure](https://img.shields.io/badge/AZ--104-0078D4?style=flat-square) **AZ-104** | Azure Administrator Associate | ✅ Certified |
+| ![Azure](https://img.shields.io/badge/AZ--900-0078D4?style=flat-square) **AZ-900** | Azure Fundamentals | ✅ Certified |
+
 ### 🛡️ SANS / GIAC
 | Certification | Description | Status |
 |--------------|-------------|--------|
@@ -92,51 +106,34 @@ I'm an identity-focused security professional specializing in **Microsoft Entra 
 | ![GIAC](https://img.shields.io/badge/GSEC-004088?style=flat-square) **GSEC** | GIAC Security Essentials | ✅ Certified |
 | ![GIAC](https://img.shields.io/badge/GCIH-004088?style=flat-square) **GCIH** | GIAC Certified Incident Handler | ✅ Certified |
 
-### ☁️ Microsoft Azure & M365
+### 🏆 Professional & Foundations
 | Certification | Description | Status |
 |--------------|-------------|--------|
-| ![Azure](https://img.shields.io/badge/SC--300-0078D4?style=flat-square) **SC-300** | Identity and Access Administrator Associate | ✅ Certified |
-| ![Azure](https://img.shields.io/badge/AZ--104-0078D4?style=flat-square) **AZ-104** | Azure Administrator Associate | ✅ Certified |
-| ![Azure](https://img.shields.io/badge/AZ--500-0078D4?style=flat-square) **AZ-500** | Azure Security Engineer Associate | ✅ Certified |
-| ![Azure](https://img.shields.io/badge/AZ--900-0078D4?style=flat-square) **AZ-900** | Azure Fundamentals | ✅ Certified |
-| ![M365](https://img.shields.io/badge/MS--102-0078D4?style=flat-square) **MS-102** | Microsoft 365 Administrator Expert | ✅ Certified |
-
-### 🔑 CyberArk
-| Certification | Description | Status |
-|--------------|-------------|--------|
-| ![CyberArk](https://img.shields.io/badge/Defender-6C3C9D?style=flat-square) **CyberArk Defender** | PAM Administration & Configuration | ✅ Certified |
-| ![CyberArk](https://img.shields.io/badge/Sentry-6C3C9D?style=flat-square) **CyberArk Sentry** | PAM Engineering & Implementation | ✅ Certified |
-| ![CyberArk](https://img.shields.io/badge/Guardian-6C3C9D?style=flat-square) **CyberArk Guardian** | PAM Advanced Security | ✅ Certified |
-
-### 🌐 Networking
-| Certification | Description | Status |
-|--------------|-------------|--------|
-| ![Cisco](https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square) **CCNA** | Cisco Certified Network Associate | ✅ Certified |
-
-### 🐧 Linux
-| Certification | Description | Status |
-|--------------|-------------|--------|
-| ![Red Hat](https://img.shields.io/badge/RHCSA-EE0000?style=flat-square) **RHCSA** | Red Hat Certified System Administrator | ✅ Certified |
-| ![Red Hat](https://img.shields.io/badge/RHCE-EE0000?style=flat-square) **RHCE** | Red Hat Certified Engineer | ✅ Certified |
-
-### 🏆 Professional
-| Certification | Description | Status |
-|--------------|-------------|--------|
-| ![ISC2](https://img.shields.io/badge/CISSP-006400?style=flat-square) **CISSP** | Certified Information Systems Security Professional | ✅ Certified |
 | ![PMI](https://img.shields.io/badge/PMP-4169E1?style=flat-square) **PMP** | Project Management Professional | ✅ Certified |
-
-### 🗄️ Database & Cloud Foundations
-| Certification | Description | Status |
-|--------------|-------------|--------|
 | ![CompTIA](https://img.shields.io/badge/Security%2B-CC2227?style=flat-square) **CompTIA Security+** | SY0-701 Cybersecurity Fundamentals | ✅ Certified |
 | ![Oracle](https://img.shields.io/badge/OCI--Foundations-F80000?style=flat-square) **OCI Foundations Associate** | Oracle Cloud Infrastructure Fundamentals | ✅ Certified |
 | ![Oracle](https://img.shields.io/badge/Autonomous_DB-F80000?style=flat-square) **OCI Autonomous Database** | Cloud Database Professional | ✅ Certified |
 
+### 🗺️ Roadmap
+| Certification | Description | Status |
+|--------------|-------------|--------|
+| ![CyberArk](https://img.shields.io/badge/Defender-6C3C9D?style=flat-square) **CyberArk Defender** | PAM Administration & Configuration | 📚 In progress |
+| ![Cisco](https://img.shields.io/badge/CCNA-1BA0D7?style=flat-square) **CCNA** | Cisco Certified Network Associate | 📚 In progress |
+| ![CyberArk](https://img.shields.io/badge/Sentry-6C3C9D?style=flat-square) **CyberArk Sentry** | PAM Engineering & Implementation | 🎯 Planned |
+| ![CyberArk](https://img.shields.io/badge/Guardian-6C3C9D?style=flat-square) **CyberArk Guardian** | PAM Advanced Security | 🎯 Planned |
+| ![Okta](https://img.shields.io/badge/Okta_Professional-007DC1?style=flat-square) **Okta Certified Professional** | Okta Identity Fundamentals | 🎯 Planned |
+| ![Okta](https://img.shields.io/badge/Okta_Administrator-007DC1?style=flat-square) **Okta Certified Administrator** | Okta Tenant Administration | 🎯 Planned |
+| ![Red Hat](https://img.shields.io/badge/RHCSA-EE0000?style=flat-square) **RHCSA** | Red Hat Certified System Administrator | 🎯 Planned |
+| ![Red Hat](https://img.shields.io/badge/RHCE-EE0000?style=flat-square) **RHCE (EX294)** | Red Hat Certified Engineer, Ansible Automation | 🎯 Planned |
+| ![Red Hat](https://img.shields.io/badge/OpenShift_Admin-EE0000?style=flat-square) **Red Hat Certified OpenShift Administrator** | OpenShift Cluster Administration | 📚 In progress |
+| ![Red Hat](https://img.shields.io/badge/Advanced_Ansible-EE0000?style=flat-square) **Red Hat Certified Specialist in Advanced Ansible Automation** | Advanced Ansible Automation Practices | 📚 In progress |
+| ![ISC2](https://img.shields.io/badge/CISSP-006400?style=flat-square) **CISSP** | Certified Information Systems Security Professional | 🎯 Planned |
+
 ---
 
-## ⭐ Featured: IAM Analyst Portfolio — Meridian Health Partners
+## ⭐ Featured: IAM Analyst Portfolio (Meridian Health Partners)
 
-A **10-project portfolio** built around a single fictional healthcare organization (Meridian Health Partners). HIPAA framing forces strict least-privilege, audit-ready evidence, and the kind of operational rigor real enterprise IAM teams ship under. Same tenant, same workforce, same compliance posture across all ten projects — reads like a year of IAM work at one company, not ten disconnected labs.
+A **10-project portfolio** built around one fictional healthcare organization, Meridian Health Partners. The HIPAA setting forces strict least privilege, audit-ready evidence, and the operational discipline real enterprise IAM teams work under. Every project uses the same tenant, the same workforce, and the same compliance posture, so it reads like a year of IAM work at one company instead of ten disconnected labs.
 
 | # | Project | Focus | Status |
 |---|---------|-------|--------|
@@ -153,13 +150,17 @@ A **10-project portfolio** built around a single fictional healthcare organizati
 
 🔗 **Portfolio hub:** [iam-analyst-portfolio](https://github.com/ZayLinux26/iam-analyst-portfolio)
 
+### 🤖 In development: Agent Identity Control Plane
+
+AI agents are the newest non-human identities, and most orgs have no plan for governing them. This project is a working control plane for agent identity: an agent registry with lifecycle management, delegated OAuth using subject and actor tokens, an MCP server acting as an OAuth resource server, policy as code, and governance that auto-revokes access when an agent drifts out of policy. 🚧 In progress
+
 ---
 
 ## 📂 Deep-Track Labs
 
-Beyond the Meridian portfolio, I'm building out three deep tracks aligned to the cert stack.
+Outside the Meridian portfolio, I'm building three deep tracks that line up with the cert stack.
 
-### ☁️ Azure Security (AZ-500 deep-track)
+### ☁️ Cloud & AI Security (SC-500 deep-track)
 
 | Lab | Topics | Link |
 |-----|--------|------|
@@ -167,6 +168,7 @@ Beyond the Meridian portfolio, I'm building out three deep tracks aligned to the
 | **Network Security** | NSGs, Azure Firewall, Bastion, Private Link | 🔜 Coming soon |
 | **Compute Security** | ACR, AKS, VM Security, Disk Encryption | 🔜 Coming soon |
 | **Data Security** | Key Vault, SQL Security, Storage Encryption | 🔜 Coming soon |
+| **AI Workload Security** | Securing AI apps and agents, agent identities, data exposure controls | 🔜 Coming soon |
 | **Security Operations** | Microsoft Sentinel, Defender for Cloud | 🔜 Coming soon |
 
 ### 🔑 CyberArk PAM (Defender → Sentry → Guardian deep-track)
@@ -177,7 +179,7 @@ Beyond the Meridian portfolio, I'm building out three deep tracks aligned to the
 | **Privileged Session Manager** | PSM Setup, Session Recording, Connectors | 🔜 Coming soon |
 | **Central Policy Manager** | CPM Configuration, Password Rotation | 🔜 Coming soon |
 | **Application Identity** | CCP, AAM, Secrets Manager | 🔜 Coming soon |
-| **PAM + Entra Integration** | Azure AD Integration, Cloud Connectors | 🔜 Coming soon |
+| **PAM + Entra Integration** | Entra ID Integration, Cloud Connectors | 🔜 Coming soon |
 
 ### 🐧 Red Hat Enterprise Linux (RHCSA + RHCE deep-track)
 
@@ -193,7 +195,7 @@ Beyond the Meridian portfolio, I'm building out three deep tracks aligned to the
 
 ## 🎯 Why This Combination?
 
-These three tracks are not separate hobbies. They are the same security problem viewed from three layers of the enterprise stack.
+These three tracks aren't separate hobbies. They're the same security problem seen from three layers of the enterprise stack.
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -230,9 +232,9 @@ Identity is the perimeter. PAM is the safe inside. Linux is the floor the safe s
 
 ## 📝 Writing & Lessons Learned
 
-Documentation lives inside each project repo. Cross-project lessons and reflections are coming to the [iam-analyst-portfolio](https://github.com/ZayLinux26/iam-analyst-portfolio) hub.
+Documentation lives inside each project repo. Cross-project lessons and reflections are headed to the [iam-analyst-portfolio](https://github.com/ZayLinux26/iam-analyst-portfolio) hub.
 
-- _Medium series planned — Identity engineering field notes._
+- _Medium series planned: field notes on identity engineering._
 
 ---
 
@@ -245,12 +247,12 @@ Documentation lives inside each project repo. Cross-project lessons and reflecti
 
 ## 🤝 Let's Connect
 
-I'm open to opportunities in:
-- 🆔 **Identity & Access Management (IAM)** — analyst, engineer, operations
-- 🔑 **Privileged Access Management** — CyberArk, Entra PIM, BeyondTrust
-- ☁️ **Cloud Security Engineering** — Azure-focused
-- 🛡️ **Security Operations** — identity-centric SIEM work, incident response
-- 🐧 **Linux Systems Security** — identity infrastructure, hardening, automation
+I'm open to roles in:
+- 🆔 **Identity & Access Management (IAM):** analyst, engineer, operations
+- 🔑 **Privileged Access Management:** CyberArk, Entra PIM, BeyondTrust
+- ☁️ **Cloud & AI Security Engineering:** Azure-focused
+- 🛡️ **Security Operations:** identity-centric SIEM work, incident response
+- 🐧 **Linux Systems Security:** identity infrastructure, hardening, automation
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaiah-herard/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaiahherard26@gmail.com)
@@ -260,15 +262,15 @@ I'm open to opportunities in:
 
 ## 💡 About This Portfolio
 
-Each repository contains:
-- 📋 **Detailed documentation** — step-by-step project guides with the actual workflow, not happy-path summaries
-- 📸 **Evidence screenshots** — visible proof every step happened, captured at the moment of action
-- 💻 **Scripts & configuration** — the artifacts behind the work (CSVs, policies, automation scripts)
-- 🧠 **Lessons learned** — honest notes on platform limits, workarounds, and the gotchas I hit so you don't have to
-- 🔗 **Compliance mapping** — how each project ties back to NIST, HIPAA, PCI-DSS, or ISO 27001 controls
+Each repository includes:
+- 📋 **Documentation:** step-by-step guides that show the real workflow, not just the happy path
+- 📸 **Evidence screenshots:** captured at the moment each step happened
+- 💻 **Scripts & configuration:** the CSVs, policies, and automation scripts behind the work
+- 🧠 **Lessons learned:** platform limits, workarounds, and the gotchas I hit so you don't have to
+- 🔗 **Compliance mapping:** how each project ties back to NIST, HIPAA, PCI-DSS, or ISO 27001 controls
 
 ---
 
-### ⭐ Found something useful? Star the repo — it helps recruiters and other practitioners find it.
+### ⭐ Found something useful? Star the repo. It helps recruiters and other practitioners find it.
 
-_Updated regularly as I ship the next project in the portfolio._
+_Updated as I ship each new project in the portfolio._
