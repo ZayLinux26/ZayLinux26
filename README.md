@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![Header](./assets/header.svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:0078D4&height=210&section=header&text=Isaiah%20%22Zay%22%20Herard&fontSize=46&fontColor=ffffff&animation=fadeIn&desc=Identity%20and%20Privileged%20Access%20Engineering&descAlignY=66&descSize=18)
 
-[![Typing](./assets/typing.svg)](https://github.com/ZayLinux26/iam-analyst-portfolio)
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0078D4&center=true&vCenter=true&width=720&lines=I+build+identity+systems+in+live+tenants.;Then+I+break+them+on+purpose.;Okta+%2B+Entra+ID+%2B+PIM+%2B+Active+Directory;PAM+Forensic+Analyst+%7C+SC-300+%7C+SC-500+%7C+PMP)](https://github.com/ZayLinux26/iam-analyst-portfolio)
 
 [![LinkedIn](./assets/badges/linkedin.svg)](https://www.linkedin.com/in/isaiah-herard)
 [![Email](./assets/badges/email.svg)](mailto:isaiahherard26@gmail.com)
