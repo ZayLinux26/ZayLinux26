@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="120" viewBox="0 0 854 120" role="img" aria-label="Footer">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0078D4"/><stop offset="1" stop-color="#0A2540"/></linearGradient></defs>
+<path fill="url(#g)" opacity=".35" d="M0 120H854V30C760 54 660 4 540 20C420 36 330 62 220 38C130 18 60 22 0 36Z"/>
+<path fill="url(#g)" d="M0 120H854V46C770 18 680 70 560 52C430 32 340 12 220 36C120 56 50 54 0 42Z"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="210" viewBox="0 0 854 210" role="img" aria-label="Isaiah &quot;Zay&quot; Herard, Identity and Privileged Access Engineering">
+<style>
+.t{font:700 46px Segoe UI,-apple-system,BlinkMacSystemFont,Helvetica,Arial,DejaVu Sans,sans-serif;fill:#fff;animation:f 1.2s ease-out both}
+.d{font:500 18px Segoe UI,-apple-system,BlinkMacSystemFont,Helvetica,Arial,DejaVu Sans,sans-serif;fill:#fff;opacity:.92;animation:f 1.2s .35s ease-out both}
+@keyframes f{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+</style>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0A2540"/><stop offset="1" stop-color="#0078D4"/></linearGradient></defs>
+<path fill="url(#g)" opacity=".35" d="M0 0H854V178C760 150 660 205 540 186C420 167 330 140 220 168C130 190 60 186 0 170Z"/>
+<path fill="url(#g)" d="M0 0H854V160C770 190 680 128 560 150C430 174 340 196 220 170C120 148 50 150 0 164Z"/>
+<text class="t" x="50%" y="92" text-anchor="middle">Isaiah "Zay" Herard</text>
+<text class="d" x="50%" y="134" text-anchor="middle">Identity and Privileged Access Engineering</text>
+</svg>
