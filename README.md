@@ -6,7 +6,7 @@
 
 [![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=0078D4&center=true&vCenter=true&width=720&lines=I+build+identity+systems+in+live+tenants.;Then+I+break+them+on+purpose.;Okta+%2B+Entra+ID+%2B+PIM+%2B+Active+Directory;PAM+Forensic+Analyst+%7C+SC-300+%7C+SC-500+%7C+PMP)](https://github.com/ZayLinux26/iam-analyst-portfolio)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-isaiah--herard-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaiah-herard)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-isaiah--herard-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/isaiah-herard)
 [![Email](https://img.shields.io/badge/Email-isaiahherard26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaiahherard26@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-IAM_Analyst_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZayLinux26/iam-analyst-portfolio)
 ![Profile views](https://komarev.com/ghpvc/?username=ZayLinux26&style=for-the-badge&color=0078D4&label=Profile+views)
@@ -27,8 +27,8 @@ This profile is where that work lives. Everything here runs in a real Entra tena
 
 [![Projects shipped](https://img.shields.io/badge/Projects_shipped-16-2EA043?style=for-the-badge)](https://github.com/ZayLinux26/iam-analyst-portfolio)
 [![Identity providers](https://img.shields.io/badge/Identity_providers_integrated-4-007DC1?style=for-the-badge&logo=okta&logoColor=white)](https://github.com/ZayLinux26/meridian-okta-entra-identity-fabric)
-[![Leaver cutoff](https://img.shields.io/badge/Okta_to_Entra_leaver_cutoff-~10_seconds-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://github.com/ZayLinux26/meridian-okta-entra-identity-fabric)
-[![Users provisioned](https://img.shields.io/badge/Users_provisioned_in_one_run-500-6E40C9?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/ZayLinux26/entra-bulk-provisioning-engine)
+[![Leaver cutoff](https://img.shields.io/badge/Okta_to_Entra_leaver_cutoff-~10_seconds-0078D4?style=for-the-badge)](https://github.com/ZayLinux26/meridian-okta-entra-identity-fabric)
+[![Users provisioned](https://img.shields.io/badge/Users_provisioned_in_one_run-500-6E40C9?style=for-the-badge)](https://github.com/ZayLinux26/entra-bulk-provisioning-engine)
 
 </div>
 
@@ -51,12 +51,12 @@ My capstone. Active Directory owns the person, Okta signs them in, and Entra tru
 
 <div align="center">
 
-<a href="https://github.com/ZayLinux26/meridian-okta-entra-identity-fabric"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZayLinux26&repo=meridian-okta-entra-identity-fabric&theme=tokyonight&hide_border=true" alt="meridian-okta-entra-identity-fabric" /></a>
-<a href="https://github.com/ZayLinux26/meridian-okta-ad-lifecycle"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZayLinux26&repo=meridian-okta-ad-lifecycle&theme=tokyonight&hide_border=true" alt="meridian-okta-ad-lifecycle" /></a>
-<a href="https://github.com/ZayLinux26/iam-role-mining-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZayLinux26&repo=iam-role-mining-engine&theme=tokyonight&hide_border=true" alt="iam-role-mining-engine" /></a>
-<a href="https://github.com/ZayLinux26/aks-pim-jit-access"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZayLinux26&repo=aks-pim-jit-access&theme=tokyonight&hide_border=true" alt="aks-pim-jit-access" /></a>
-<a href="https://github.com/ZayLinux26/meridian-jml-engine"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZayLinux26&repo=meridian-jml-engine&theme=tokyonight&hide_border=true" alt="meridian-jml-engine" /></a>
-<a href="https://github.com/ZayLinux26/entra-phishing-resistant-mfa"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZayLinux26&repo=entra-phishing-resistant-mfa&theme=tokyonight&hide_border=true" alt="entra-phishing-resistant-mfa" /></a>
+<a href="https://github.com/ZayLinux26/meridian-okta-entra-identity-fabric"><img src="./profile/pin-meridian-okta-entra-identity-fabric.svg" alt="meridian-okta-entra-identity-fabric" /></a>
+<a href="https://github.com/ZayLinux26/meridian-okta-ad-lifecycle"><img src="./profile/pin-meridian-okta-ad-lifecycle.svg" alt="meridian-okta-ad-lifecycle" /></a>
+<a href="https://github.com/ZayLinux26/iam-role-mining-engine"><img src="./profile/pin-iam-role-mining-engine.svg" alt="iam-role-mining-engine" /></a>
+<a href="https://github.com/ZayLinux26/aks-pim-jit-access"><img src="./profile/pin-aks-pim-jit-access.svg" alt="aks-pim-jit-access" /></a>
+<a href="https://github.com/ZayLinux26/meridian-jml-engine"><img src="./profile/pin-meridian-jml-engine.svg" alt="meridian-jml-engine" /></a>
+<a href="https://github.com/ZayLinux26/entra-phishing-resistant-mfa"><img src="./profile/pin-entra-phishing-resistant-mfa.svg" alt="entra-phishing-resistant-mfa" /></a>
 
 </div>
 
@@ -84,7 +84,7 @@ Things I found by building, that the vendor docs don't put up front.
 | Over SAML 2.0, Entra ignores an MFA claim sent as an attribute. It only reads `AuthnContextClassRef`, and Okta's UI can't set Microsoft's value there. | [okta-entra-identity-fabric](https://github.com/ZayLinux26/meridian-okta-entra-identity-fabric#7-what-broke-and-how-i-fixed-it) |
 | Okta's Microsoft 365 connector writes as a directory sync engine, so flipping a user to cloud-managed in Entra blocks Okta from updating them. | [okta-entra-identity-fabric](https://github.com/ZayLinux26/meridian-okta-entra-identity-fabric#7-what-broke-and-how-i-fixed-it) |
 | Disabling a user doesn't remove their PIM eligibility. The entitlement just sits there until someone reviews it. | [okta-entra-identity-fabric](https://github.com/ZayLinux26/meridian-okta-entra-identity-fabric#8-findings) |
-| A Global Administrator can still show "Unauthorized" on an Azure subscription. Entra roles and Azure RBAC are separate planes. | [Azure custom RBAC](https://github.com/ZayLinux26/iam-analyst-portfolio) |
+| A Global Administrator can still show "Unauthorized" on an Azure subscription. Entra roles and Azure RBAC are separate planes. | [Azure custom RBAC](https://github.com/ZayLinux26/iam-analyst-portfolio#shipped-work) |
 
 ---
 
@@ -92,18 +92,18 @@ Things I found by building, that the vendor docs don't put up front.
 
 **Proven in my public repos**
 
-![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Entra PIM](https://img.shields.io/badge/Entra_PIM-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Conditional Access](https://img.shields.io/badge/Conditional_Access-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge)
+![Entra PIM](https://img.shields.io/badge/Entra_PIM-0078D4?style=for-the-badge)
+![Conditional Access](https://img.shields.io/badge/Conditional_Access-0078D4?style=for-the-badge)
 ![Okta](https://img.shields.io/badge/Okta-007DC1?style=for-the-badge&logo=okta&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge&logo=windows&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-003366?style=for-the-badge)
 ![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white)
 ![SAML and OIDC](https://img.shields.io/badge/SAML_2.0_and_OIDC-F7931E?style=for-the-badge&logo=openid&logoColor=white)
-![Azure RBAC](https://img.shields.io/badge/Azure_RBAC-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure RBAC](https://img.shields.io/badge/Azure_RBAC-0089D6?style=for-the-badge)
+![Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0089D6?style=for-the-badge)
 ![AKS](https://img.shields.io/badge/AKS-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![KQL](https://img.shields.io/badge/Log_Analytics_and_KQL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell_7_and_Graph-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![KQL](https://img.shields.io/badge/Log_Analytics_and_KQL-0078D4?style=for-the-badge)
+![PowerShell](https://img.shields.io/badge/PowerShell_7_and_Graph-5391FE?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python_and_pandas-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![RHEL](https://img.shields.io/badge/RHEL_and_Podman-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white)
@@ -131,13 +131,13 @@ Things I found by building, that the vendor docs don't put up front.
 
 ![Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=for-the-badge&logo=comptia&logoColor=white)
 ![PMP](https://img.shields.io/badge/PMI-PMP-005A9C?style=for-the-badge)
-![SC-500](https://img.shields.io/badge/Microsoft-SC--500-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![SC-300](https://img.shields.io/badge/Microsoft-SC--300-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![AZ-104](https://img.shields.io/badge/Microsoft-AZ--104-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![SC-500](https://img.shields.io/badge/Microsoft-SC--500-0078D4?style=for-the-badge)
+![SC-300](https://img.shields.io/badge/Microsoft-SC--300-0078D4?style=for-the-badge)
+![AZ-104](https://img.shields.io/badge/Microsoft-AZ--104-0078D4?style=for-the-badge)
+![AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-0078D4?style=for-the-badge)
 ![GFACT](https://img.shields.io/badge/GIAC-GFACT-004088?style=for-the-badge)
-![OCI Foundations](https://img.shields.io/badge/Oracle-OCI_Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Oracle Autonomous DB](https://img.shields.io/badge/Oracle-Autonomous_DB_Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![OCI Foundations](https://img.shields.io/badge/Oracle-OCI_Foundations-F80000?style=for-the-badge)
+![Oracle Autonomous DB](https://img.shields.io/badge/Oracle-Autonomous_DB_Professional-F80000?style=for-the-badge)
 
 **Next, in order**
 
@@ -179,8 +179,8 @@ Identity is the perimeter. PAM is the safe inside. Linux is the floor the safe s
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZayLinux26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZayLinux26&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub stats](./profile/stats.svg)
+![Top languages](./profile/top-langs.svg)
 
 </div>
 
@@ -194,7 +194,7 @@ Hiring for identity or privileged access? Working through an Okta, Entra, or PAM
 
 **Open to:** remote IAM and PAM engineering roles and contracts, identity governance, and roles that sponsor a security clearance.
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaiah-herard)
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/isaiah-herard)
 [![Email me](https://img.shields.io/badge/Email-isaiahherard26%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isaiahherard26@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Browse_the-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZayLinux26/iam-analyst-portfolio)
 
