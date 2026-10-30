@@ -179,8 +179,8 @@ Identity is the perimeter. PAM is the safe inside. Linux is the floor the safe s
 
 <div align="center">
 
-![GitHub stats](./profile/stats.svg)
-![Top languages](./profile/top-langs.svg)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZayLinux26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZayLinux26&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
